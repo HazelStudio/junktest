@@ -54,3 +54,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'haml', '~> 5.0', '>= 5.0.4'
+
+gem "paperclip", "~> 5.2.1"
